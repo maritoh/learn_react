@@ -19,6 +19,7 @@
 .env.production.local
 .DS_Store
 .eslintcache
+./react-complete-guide/.eslintcache
 
 npm-debug.log*
 yarn-debug.log*
